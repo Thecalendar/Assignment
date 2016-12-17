@@ -3,4 +3,4 @@
 検索フォームから画像検索をし、気に入った画像を背景として設定できる。また、日にちごとにイベントを登録し、時刻確認ができる機能の実装を目指していました。
 
 # Libraries
-ExtendedCalendarView等のライブラリを使って、イベント管理をスマートに行う。また、Google Material Design 等を利用した見やすいフレームワークの構築。
+ExtendedCalendarView等のライブラリを使って、イベント管理をスマートに行う。また、Google Material Design 等を利用した見やすいフレームワークの構築による視認性の向上。
